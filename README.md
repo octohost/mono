@@ -11,7 +11,7 @@ Or you can build it from this source:
 
 `docker build -t your-organization/mono`
 
-To use it in your web project Dockerfile:
+Once it's built, you can use it in your web project Dockerfile:
 
 ```
 FROM octohost/mono
